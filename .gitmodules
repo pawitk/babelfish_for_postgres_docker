@@ -1,0 +1,4 @@
+[submodule "babelfish_extensions"]
+	url = https://github.com/babelfish-for-postgresql/babelfish_extensions.git
+[submodule "postgresql_modified_for_babelfish"]
+	url = https://github.com/babelfish-for-postgresql/postgresql_modified_for_babelfish.git
